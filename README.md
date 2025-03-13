@@ -2,10 +2,10 @@
 
 ## Instalação:
 
-`git clone https://github.com/outlawhotel/arsenalbb`
+1 `git clone https://github.com/outlawhotel/arsenalbb`
 
-`cd arsenalbb`
+2 `cd arsenalbb`
 
-`chmod +x install.sh`
+3 `chmod +x install.sh`
 
-`install.sh`
+4 `install.sh`
