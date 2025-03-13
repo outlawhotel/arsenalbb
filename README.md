@@ -1,11 +1,13 @@
-# Arsenal de ferramentas para pentest/bug bounty 🪲​
+# 🪲​Arsenal de ferramentas para pentest/bug bounty🪲​
 
-## Instalação:
+## 📥Instalação:
 
-1 `git clone https://github.com/outlawhotel/arsenalbb`
+`git clone https://github.com/outlawhotel/arsenalbb`
 
-2 `cd arsenalbb`
+`cd arsenalbb`
 
-3 `chmod +x install.sh`
+`chmod +x install.sh`
 
-4 `install.sh`
+`install.sh`
+
+O >install.sg< 
