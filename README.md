@@ -1,4 +1,4 @@
-# Arsenal de ferramentas para pentest/bug bounty
+# Arsenal de ferramentas para pentest/bug bounty 🪲​
 
 ## Instalação:
 
