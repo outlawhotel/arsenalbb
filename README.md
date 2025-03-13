@@ -8,6 +8,6 @@
 
 `chmod +x install.sh` - permissões para instalar
 
-`install.sh` - vai instalar ferramentas e dependências necessárias
+`./install.sh` - vai instalar ferramentas e dependências necessárias
 
 
