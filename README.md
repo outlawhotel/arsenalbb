@@ -1,4 +1,4 @@
-<h>Arsena de ferramentas para pentest/bug bounty</h>
+<h1>Arsena de ferramentas para pentest/bug bounty</h>
 
 instalação no terminal:
 
