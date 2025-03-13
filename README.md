@@ -4,8 +4,8 @@
 
 `git clone https://github.com/outlawhotel/arsenalbb`
 
-cd arsenalbb
+`cd arsenalbb`
 
-chmod +x install.sh
+`chmod +x install.sh`
 
-install.sh
+`install.sh`
