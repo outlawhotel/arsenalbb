@@ -1,10 +1,8 @@
 <h1>Arsena de ferramentas para pentest/bug bounty</h1>
 
-> teste
+## Instalação:
 
-instalação no terminal:
-
-git clone https://github.com/outlawhotel/arsenalbb
+`git clone https://github.com/outlawhotel/arsenalbb`
 
 cd arsenalbb
 
