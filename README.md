@@ -2,12 +2,12 @@
 
 ## 📥Instalação:
 
-`git clone https://github.com/outlawhotel/arsenalbb`
+`git clone https://github.com/outlawhotel/arsenalbb` clonar o repositorio para sua pasta pessoal
 
-`cd arsenalbb`
+`cd arsenalbb` caminhar até o diretorio ~/arsenalbb
 
-`chmod +x install.sh`
+`chmod +x install.sh` permissões para instalar
 
-`install.sh`
+`install.sh` vai instalar ferramentas e dependências necessárias
 
-O `install.sh` vai instalar ferramentas e dependências necessárias
+
