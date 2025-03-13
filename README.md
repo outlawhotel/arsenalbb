@@ -1,4 +1,4 @@
-<h1>Arsena de ferramentas para pentest/bug bounty</h1>
+<h1>Arsenal de ferramentas para pentest/bug bounty</h1>
 
 ## Instalação:
 
