@@ -10,4 +10,4 @@
 
 `install.sh`
 
-O >install.sg< 
+O `install.sh` vai instalar ferramentas e dependências necessárias
